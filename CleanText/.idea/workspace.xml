@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f96a039-39a9-42bc-baeb-349585658ea3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RDD/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Word2Vec/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/CleanText.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/CleanText.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CleanText$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/CleanText$$anonfun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CleanText$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/CleanText$$anonfun$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CleanText$$anonfun$cleanSentence$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CleanText$$anonfun$getParagraphs$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CleanText$$anonfun$getSentences$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CleanText$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/CleanText$$anonfun$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CleanText$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/CleanText$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CleanText.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/CleanText.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/cleantext_2.11-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/cleantext_2.11-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/cleantext_2.11/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/cleantext_2.11/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/cleantext_2.11/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/cleantext_2.11/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.11.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.11.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/src/main/scala/RDDExample.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/src/main/scala/RDDExample.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/target/scala-2.11/classes/RDDExample$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/target/scala-2.11/classes/RDDExample$$anonfun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/target/scala-2.11/classes/RDDExample$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/target/scala-2.11/classes/RDDExample$$anonfun$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/target/scala-2.11/classes/RDDExample$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/target/scala-2.11/classes/RDDExample$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/target/scala-2.11/classes/RDDExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/target/scala-2.11/classes/RDDExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/target/scala-2.11/rdd_2.11-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/target/scala-2.11/rdd_2.11-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/default/rdd_2.11/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/default/rdd_2.11/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/default/rdd_2.11/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/default/rdd_2.11/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.11.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.11.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RDD/target/streams/compile/packageBin/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../RDD/target/streams/compile/packageBin/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/AdamsStephanie.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/CH4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/MillsJanie.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/Mitchell_RMVancouver.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/NapierDianne.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/NesbittFrank.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/ODonnell_et_al_v_LSCdecision.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/O_ConnorChris.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/QuelerAdam.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/Special_report_to_congress.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/chapter-1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/chapter-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/chapter-13.1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/chapter-13.2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/chapter-13.3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/chapter-13.4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/chapter-13.5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/chapter-3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/chapter-8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/final.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/ro_clear_skies_book.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/tech_sectiong.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/src/main/scala/Word2VecExample.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/src/main/scala/Word2VecExample.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/classes/Word2VecExample$$anonfun$getCleanedSentences$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/classes/Word2VecExample$$anonfun$getCleanedSentences$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/classes/Word2VecExample$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/classes/Word2VecExample$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/default/word2vec_2.11/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/default/word2vec_2.11/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/default/word2vec_2.11/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/default/word2vec_2.11/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/word2vec_2.11-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/word2vec_2.11-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.11.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.11.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/CleanText.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="44" column="6" lean-forward="true" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/CleanText.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="187" />
+    <option name="y" value="116" />
+    <option name="width" value="1111" />
+    <option name="height" value="964" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CleanText" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CleanText" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CleanText" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CleanText" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CleanText" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CleanText" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552015035192" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="CleanText" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="cleantext [file:/home/jouko/dev/project/TrainingSprints/TrainingSprint2/CleanText/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="CleanText-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3103606518000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3483556774" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2567920773" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../ML/BasicStatistics" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ML/LogisticRegression" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ML/StanfordNlpTriples" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../TypeClass3" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../tutorials/structured-streaming-application" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f96a039-39a9-42bc-baeb-349585658ea3" name="Default Changelist" comment="" />
+      <created>1551802598202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551802598202</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="187" y="116" width="1111" height="964" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25915492" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Build" order="11" visible="true" weight="0.3297491" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="sbt" order="8" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CleanText.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="44" column="6" lean-forward="true" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

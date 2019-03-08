@@ -1,0 +1,27 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/jouko/dev/project/TrainingSprints/TrainingSprint2/RDD/target/scala-2.11/rdd_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDDExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jouko/dev/project/TrainingSprints/TrainingSprint2/RDD/target/scala-2.11/classes/RDDExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDDExample$$anonfun$createRandomRdd$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jouko/dev/project/TrainingSprints/TrainingSprint2/RDD/target/scala-2.11/classes/RDDExample$$anonfun$createRandomRdd$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDDExample$$anonfun$repartitionByIdAndJoin$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jouko/dev/project/TrainingSprints/TrainingSprint2/RDD/target/scala-2.11/classes/RDDExample$$anonfun$repartitionByIdAndJoin$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDDExample$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jouko/dev/project/TrainingSprints/TrainingSprint2/RDD/target/scala-2.11/classes/RDDExample$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDDExample$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jouko/dev/project/TrainingSprints/TrainingSprint2/RDD/target/scala-2.11/classes/RDDExample$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CustomPartitioner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jouko/dev/project/TrainingSprints/TrainingSprint2/RDD/target/scala-2.11/classes/CustomPartitioner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDDExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jouko/dev/project/TrainingSprints/TrainingSprint2/RDD/target/scala-2.11/classes/RDDExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDDExample$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jouko/dev/project/TrainingSprints/TrainingSprint2/RDD/target/scala-2.11/classes/RDDExample$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDDExample$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jouko/dev/project/TrainingSprints/TrainingSprint2/RDD/target/scala-2.11/classes/RDDExample$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDDExample$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jouko/dev/project/TrainingSprints/TrainingSprint2/RDD/target/scala-2.11/classes/RDDExample$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDDExample$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jouko/dev/project/TrainingSprints/TrainingSprint2/RDD/target/scala-2.11/classes/RDDExample$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDDExample$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jouko/dev/project/TrainingSprints/TrainingSprint2/RDD/target/scala-2.11/classes/RDDExample$$anonfun$5.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
