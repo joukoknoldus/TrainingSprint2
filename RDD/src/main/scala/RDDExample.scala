@@ -32,8 +32,8 @@ object RDDExample {
     val pathPartitionedById=projectDir+"/OutputPartitionedById"
     val pathPartitionedByName=projectDir+"/OutputPartitionedByName"
 
-    val rddSize=10000
-    val numPartitions=100
+    val rddSize=10000000
+    val numPartitions=3000
     val rdd1=createSaveLoadRdd(rddSize, outPath1, sc)
     val rdd2=createSaveLoadRdd(rddSize, outPath2, sc)
 
@@ -57,13 +57,19 @@ object RDDExample {
     val nameCol2: Column=df2.col("df2._2")
 
     val dfJoined=df1.join(df2, nameCol1===nameCol2, "inner")
+
+
+
+
+    //df1.show()
+    dfJoined.show()
     val timeEnd=System.currentTimeMillis
 
     println("Join DF by name took "+(timeEnd-timeStart)+" ms")
-    //33 ms with 10,000 rows
-
-    df1.show()
-    dfJoined.show()
+    //1314 ms with 10,000 rows
+    //1575 ms with 100,000 rows
+    //3181 ms with 1,000,000 rows
+    //17838 ms with 10,000,000 rows
 
     dfJoined
   }
@@ -90,12 +96,16 @@ object RDDExample {
   def joinByName(rdd1: RDD[(String, Int)], rdd2: RDD[(String, Int)], path: String): RDD[((Int, Int), String)] = {
     val timeStart=System.currentTimeMillis
     val rddJoinedByName=rdd1.join(rdd1).map( x => (x._2, x._1) )
+    rddJoinedByName.take(10).foreach(println)
     val timeEnd=System.currentTimeMillis
 
     println("Join RDD by name took "+(timeEnd-timeStart)+" ms")
-    //6 ms with 10,000 rows
+    //70 ms with 10,000 rows
+    //192 ms with 100,000 rows
+    //986 ms with 1,000,000 rows
+    //8984 ms with 10,000,000 rows
 
-    rddJoinedByName.saveAsTextFile(path)
+    //rddJoinedByName.saveAsTextFile(path)
 
     rddJoinedByName
 

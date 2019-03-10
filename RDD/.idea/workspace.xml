@@ -1,47 +1,325 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a86cfc58-6f57-45db-971f-10ad6d05d7dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CleanText/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Word2Vec/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/data/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/src/main/scala/CleanText.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/src/main/scala/CleanText.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/scala-2.11/classes/CleanText$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/scala-2.11/classes/CleanText$$anonfun$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/scala-2.11/classes/CleanText$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/scala-2.11/classes/CleanText$$anonfun$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/scala-2.11/classes/CleanText$$anonfun$cleanSentence$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/scala-2.11/classes/CleanText$$anonfun$getParagraphs$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/scala-2.11/classes/CleanText$$anonfun$getSentences$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/scala-2.11/classes/CleanText$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/scala-2.11/classes/CleanText$$anonfun$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/scala-2.11/classes/CleanText$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/scala-2.11/classes/CleanText$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/scala-2.11/classes/CleanText.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/scala-2.11/classes/CleanText.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/scala-2.11/cleantext_2.11-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/scala-2.11/cleantext_2.11-0.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/default/cleantext_2.11/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/default/cleantext_2.11/0.1/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/default/cleantext_2.11/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/default/cleantext_2.11/0.1/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/scala-2.11/resolution-cache/reports/default-cleantext_2.11-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.11.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.11.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanText/target/streams/compile/packageBin/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanText/target/streams/compile/packageBin/$global/streams/out" afterDir="false" />
+    <list default="true" id="3ac161a1-7f05-4a10-b9ca-4de7696b74c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules/RDD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/RDD.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/Output1/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/Output1/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/Output1/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/Output1/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/Output1/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/Output1/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/Output2/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/Output2/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/Output2/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/Output2/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/Output2/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/Output2/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00004.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00005.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00006.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00007.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00008.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00009.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00010.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00011.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00012.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00013.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00014.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00015.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00016.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00017.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00018.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00019.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00020.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00021.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00022.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00023.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00024.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00025.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00026.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00027.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00028.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00029.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00030.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00031.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00032.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00033.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00034.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00035.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00036.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00037.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00038.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00039.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00040.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00041.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00042.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00043.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00044.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00045.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00046.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00047.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00048.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00049.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00050.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00051.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00052.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00053.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00054.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00055.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00056.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00057.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00058.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00059.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00060.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00061.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00062.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00063.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00064.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00065.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00066.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00067.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00068.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00069.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00070.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00071.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00072.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00073.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00074.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00075.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00076.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00077.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00078.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00079.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00080.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00081.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00082.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00083.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00084.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00085.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00086.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00087.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00088.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00089.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00090.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00091.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00092.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00093.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00094.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00095.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00096.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00097.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00098.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/.part-00099.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00004" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00005" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00006" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00007" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00008" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00009" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00010" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00011" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00012" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00013" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00014" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00015" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00016" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00017" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00018" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00019" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00020" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00021" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00022" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00023" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00024" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00025" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00026" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00027" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00028" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00029" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00030" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00031" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00032" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00033" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00036" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00037" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00038" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00039" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00040" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00041" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00042" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00043" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00044" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00045" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00046" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00047" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00048" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00049" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00050" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00051" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00052" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00053" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00054" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00055" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00056" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00057" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00058" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00059" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00060" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00061" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00062" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00063" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00064" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00065" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00066" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00067" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00068" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00069" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00070" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00071" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00072" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00073" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00074" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00075" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00076" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00077" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00078" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00079" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00080" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00081" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00082" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00083" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00084" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00085" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00086" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00087" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00088" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00089" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00090" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00091" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00092" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00093" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00094" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00095" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00096" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00097" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00098" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedById/part-00099" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00004.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00005.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00006.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00007.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00008.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00009.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00010.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00011.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00012.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00013.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00014.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00015.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00016.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00017.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00018.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00019.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00020.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00021.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00022.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00023.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00024.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/.part-00025.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00004" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00005" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00006" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00007" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00008" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00009" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00010" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00011" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00012" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00013" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00014" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00015" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00016" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00017" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00018" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00019" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00020" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00021" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00022" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00023" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00024" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/OutputPartitionedByName/part-00025" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$529d1fa94c5eeabd9c2f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$529d1fa94c5eeabd9c2f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$529d1fa94c5eeabd9c2f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$79d6f3f707c76fa41325$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$79d6f3f707c76fa41325.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$79d6f3f707c76fa41325.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$889a714fd8a29cf86816$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$889a714fd8a29cf86816.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$889a714fd8a29cf86816.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8ba6a06bac1d98377f07$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8ba6a06bac1d98377f07.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8ba6a06bac1d98377f07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a21f0581d9962fa4895b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a21f0581d9962fa4895b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a21f0581d9962fa4895b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d3c2498409f53249475d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d3c2498409f53249475d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d3c2498409f53249475d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/rdd-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/rdd-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/rdd-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/rdd-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-rdd-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-rdd-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-rdd-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-rdd-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-rdd-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-rdd-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-rdd-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-rdd-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-rdd-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-rdd-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-rdd-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-rdd-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-rdd-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-rdd-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-rdd-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-rdd-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-rdd-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-rdd-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-rdd-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-rdd-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-rdd-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-rdd-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/RDDExample.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/RDDExample.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/RDDExample$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/RDDExample$$anonfun$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/RDDExample$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CustomPartitioner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/CustomPartitioner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/RDDExample$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/RDDExample$$anonfun$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/RDDExample$$anonfun$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/RDDExample$$anonfun$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/RDDExample$$anonfun$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/RDDExample$$anonfun$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/RDDExample$$anonfun$createRandomRdd$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/RDDExample$$anonfun$createRandomRdd$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/RDDExample$$anonfun$repartitionByIdAndJoin$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/RDDExample$$anonfun$repartitionByIdAndJoin$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/RDDExample$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/RDDExample$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/RDDExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/RDDExample.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.11/rdd_2.11-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/rdd_2.11-0.1.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/rdd_2.11/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/rdd_2.11/0.1/resolved.xml.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/rdd_2.11/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/rdd_2.11/0.1/resolved.xml.xml" afterDir="false" />
@@ -56,60 +334,16 @@
       <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-scala-tool.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-test-internal.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-rdd_2.11-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.11.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.11.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/AdamsStephanie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/CH4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/MillsJanie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/Mitchell_RMVancouver.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/NapierDianne.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/NesbittFrank.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/ODonnell_et_al_v_LSCdecision.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/O_ConnorChris.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/QuelerAdam.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/Special_report_to_congress.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/chapter-1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/chapter-10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/chapter-13.1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/chapter-13.2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/chapter-13.3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/chapter-13.4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/chapter-13.5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/chapter-3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/chapter-8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/final.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/ro_clear_skies_book.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/data/tech_sectiong.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/src/main/scala/Word2VecExample.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/src/main/scala/Word2VecExample.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/classes/Word2VecExample$$anonfun$getCleanedSentences$1$$anonfun$apply$mcVI$sp$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/classes/Word2VecExample$$anonfun$getCleanedSentences$1$$anonfun$apply$mcVI$sp$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/classes/Word2VecExample$$anonfun$getCleanedSentences$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/classes/Word2VecExample$$anonfun$getCleanedSentences$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/classes/Word2VecExample$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/classes/Word2VecExample$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/default/word2vec_2.11/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/default/word2vec_2.11/0.1/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/default/word2vec_2.11/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/default/word2vec_2.11/0.1/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/resolution-cache/reports/default-word2vec_2.11-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/word2vec_2.11-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/scala-2.11/word2vec_2.11-0.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.11.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.11.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Word2Vec/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../Word2Vec/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/output" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
     <ignored path="$PROJECT_DIR$/project/target/" />
@@ -125,24 +359,15 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/RDDExample.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+            <state relative-caret-position="420">
+              <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
               <folding>
                 <element signature="e#0#49#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.sbt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -155,16 +380,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/scala/RDDExample.scala" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="374" />
-    <option name="y" value="157" />
-    <option name="width" value="1349" />
-    <option name="height" value="893" />
+    <option name="x" value="408" />
+    <option name="y" value="56" />
+    <option name="width" value="1748" />
+    <option name="height" value="945" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -178,19 +402,26 @@
         <subPane>
           <expand>
             <path>
-              <item name="RDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rdd" type="b2602c69:ProjectViewProjectNode" />
               <item name="RDD" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="RDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rdd" type="b2602c69:ProjectViewProjectNode" />
               <item name="RDD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="RDD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rdd" type="b2602c69:ProjectViewProjectNode" />
               <item name="RDD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RDD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -199,7 +430,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552072762072" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552238436053" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -212,20 +447,6 @@
         </RuleState>
       </list>
     </option>
-  </component>
-  <component name="RunManager">
-    <configuration name="RDDExample" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="RDDExample" />
-      <module name="RDD" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.RDDExample" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="availableProjects">
@@ -240,7 +461,7 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="rdd [file:/home/jouko/dev/project/TrainingSprints/TrainingSprint2/RDD/]" />
+                <option name="name" value="rdd [file:/home/jouko/dev/projects/TrainingSprints/TrainingSprint2/RDD/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
@@ -254,17 +475,15 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3103862342000" />
         <entry key="$PROJECT_DIR$/build.sbt" value="2422793482" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="2567920773" />
       </map>
     </option>
     <option name="projectSyncType">
       <map>
-        <entry key="$PROJECT_DIR$/../../ML/BasicStatistics" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../ML/LogisticRegression" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../ML/StanfordNlpTriples" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../SparkNlp2" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../../TypeClass3" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../tutorials/WindowExample2" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../../../tutorials/structured-streaming-application" value="PREVIEW" />
       </map>
     </option>
@@ -274,64 +493,69 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a86cfc58-6f57-45db-971f-10ad6d05d7dc" name="Default Changelist" comment="" />
-      <created>1551930960867</created>
+      <changelist id="3ac161a1-7f05-4a10-b9ca-4de7696b74c2" name="Default Changelist" comment="" />
+      <created>1552176267599</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551930960867</updated>
+      <updated>1552176267599</updated>
+      <workItem from="1552176276791" duration="3976000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3976000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="571" y="100" width="1349" height="893" extended-state="0" />
+    <frame x="408" y="56" width="1748" height="945" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20798159" />
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24970622" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.23774509" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36646706" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="11" weight="0.2974138" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="sbt" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="sbt" order="8" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/scala/RDDExample.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+        <state relative-caret-position="420">
+          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
